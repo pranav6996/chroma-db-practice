@@ -35,3 +35,6 @@ Store embeddings in ChromaDB
 Embed user query
 
 Retrieve top-K similar documents
+
+
+the vector database was downloaded to google drive
